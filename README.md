@@ -21,7 +21,7 @@ MVC 아키텍처 구조를 기반으로 **Controller - DAO - DTO 계층 분리 �
 | Front-End       | JSP, HTML, CSS, jQuery, AJAX                       |
 | Database        | Oracle DB                                          |
 | ORM/DB Access   | JDBC 직접 처리                                     |
-| File Upload     | cos.jar                         |
+| File Upload     | cos.jar,(com.oreilly.servlet.MultipartRequest)     |
 | WAS             | Apache Tomcat 9                                    |
 
 ---
@@ -36,7 +36,6 @@ BoardProject
         │       └── kedu  
         │           ├── commons  
         │           │   ├── EncryptionUtils.java  
-        │           │   ├── OAuthToken.java  
         │           │   ├── ReplyStatic.java  
         │           │   ├── Statics.java  
         │           │   └── VerificationUtil.java  
