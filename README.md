@@ -16,14 +16,13 @@ MVC 아키텍처 구조를 기반으로 **Controller - DAO - DTO 계층 분리 �
 | 구분            | 기술                                               |
 |----------------|----------------------------------------------------|
 | Language        | Java 11                                            |
-| Framework       | 없음 (Servlet / JSP 기반 개발)                     |
 | Build Tool      | Maven                                              |
 | Front-End       | JSP, HTML, CSS, jQuery, AJAX                       |
 | Database        | Oracle DB                                          |
 | ORM/DB Access   | JDBC 직접 처리                                     |
-| File Upload     | Apache Commons FileUpload, MultipartResolver       |
+| File Upload     | cos.jar, MultipartResolver       |
 | WAS             | Apache Tomcat 9                                    |
-| IDE             | IntelliJ IDEA / Eclipse (Spring Tool Suite 3)     |
+| IDE             | Eclipse    |
 
 ---
 
