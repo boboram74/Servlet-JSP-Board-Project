@@ -54,7 +54,6 @@ BoardProject
         │           │   ├── BoardDTO.java  
         │           │   ├── FilesDTO.java  
         │           │   ├── MemberDTO.java  
-        │           │   ├── OAuthTokenDTO.java  
         │           │   └── ReplyDTO.java  
         └── webapp  
             ├── META-INF  
