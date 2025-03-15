@@ -65,4 +65,3 @@ BoardProject
             │   ├── mypage.jsp  
             │   └── signup.jsp  
             └── index.jsp  
-.gitignore
